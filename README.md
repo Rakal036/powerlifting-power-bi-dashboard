@@ -35,4 +35,4 @@ An interactive Power BI report analysing **386,000+ competition results** from *
 Power BI Desktop · Power Query · DAX
 
 ## Data source
-[OpenPowerlifting](https://www.openpowerlifting.org/) via Kaggle (meets.csv, openpowerlifting.csv).
+[powerlifting-database]([https://www.openpowerlifting.org/](https://www.kaggle.com/datasets/dansbecker/powerlifting-database?select=meets.csv)) via Kaggle (meets.csv, openpowerlifting.csv).
