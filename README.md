@@ -2,8 +2,6 @@
 
 An interactive Power BI report analysing **386,000+ competition results** from **8,400+ powerlifting meets** (OpenPowerlifting dataset, data through 2017).
 
-![Report preview](images/overview.png)
-
 ## Questions this report answers
 - How has the sport grown over time, by number of meets and competitors?
 - Which countries and federations host the most competitions?
